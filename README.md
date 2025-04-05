@@ -20,10 +20,8 @@ This project implements several core linear algebra algorithms without using ext
 cot-4500-as3b
 │-- src/
 │   ├── main/
-│   │   ├── __init__.py
 │   │   └── assignment_3.py
 │   └── test/
-│       ├── __init__.py
 │       └── test_assignment_3.py
 │-- requirements.txt
 │-- README.md
