@@ -63,7 +63,4 @@ python src/main/assignment_3.py
 
 ## Running the Tests
 
-To run the unit tests:
-```bash
-python -m unittest discover src/test
-```
+I moved the tests into the same file as assignment_3
